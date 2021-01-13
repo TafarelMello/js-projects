@@ -1,1 +1,1 @@
-# mono repo para projetos praticos com JavaScrip
+# mono repo para projetos praticos com JavaScript
